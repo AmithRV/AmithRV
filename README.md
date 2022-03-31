@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Amith**✨
 
-### ...a developer who loves all things **code** and **helping others learn new skills**!
+### ...a developer who loves all things   ****!
 
 <img src="https://media.giphy.com/media/eHKw6v7CGCAbFJbTlN/giphy.gif" height=300 />
 
