@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ✨**Amith**✨
+# 👋 Hi there, I'm **Amith**✨
 
 ### ...a developer who loves all things **code** and **helping others learn new skills**!
 
@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning how to make lighting fast websites with top grade UI
 - 💬 I love connecting with amazing people
 - - 👯 I am open to collaborating!
-
