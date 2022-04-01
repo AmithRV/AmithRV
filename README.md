@@ -11,4 +11,4 @@
 - 💬 I love connecting with amazing people
 - 👯 I am open to collaborating!
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithRV)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithRV)
